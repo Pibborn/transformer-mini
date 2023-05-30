@@ -1,0 +1,4 @@
+input,output
+"What is the capital of France","Paris"
+"What is not the capital of France","Bread"
+"What is the capital of Rome","That does not make any sense"
